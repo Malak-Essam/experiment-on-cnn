@@ -114,8 +114,8 @@ Loss: 0.0025
 
 1. Clone the repository and navigate to the project directory:
     ```bash
-    git clone <repository_url>
-    cd <repository_name>
+    git clone (https://github.com/Malak-Essam/experiment-on-cnn.git)
+    cd <experiment-on-cnn>
     ```
 
 2. Install the required Python libraries:
